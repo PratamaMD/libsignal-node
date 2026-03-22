@@ -1,6 +1,6 @@
 {
-  "name": "@skyzeeshop/libsignal-node",
-  "version": "2.0.1",
+  "name": "@PratamaMD/libsignal-node",
+  "version": "1.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "repository": "skyzeeshop/libsignal-node",
   "keywords": [
